@@ -3,7 +3,7 @@ name: Blog posts on ReadMe
 on:
   schedule:
     # Runs every day at 8am UTC
-    - cron: '0 8 * * *'
+    - cron: '5 * * * *'
 
 jobs:
   build:
