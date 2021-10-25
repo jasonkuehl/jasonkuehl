@@ -1,10 +1,10 @@
 
 [![Blog posts on ReadMe](https://github.com/jasonkuehl/jasonkuehl/actions/workflows/blog-import.yml/badge.svg)](https://github.com/jasonkuehl/jasonkuehl/actions/workflows/blog-import.yml)
 
-<h2> <a href="https://links.stephenajulu.com">Links</a> • <a href="https://jasonkuehl.com.com">Website</a> • <a href="https://jason-kuehl.creator-spring.com/?">Shop</a> • <a href="https://www.buymeacoffee.com/rcgfxDE">Beer me</a><h2>
+<h4> <a href="https://links.stephenajulu.com">Links</a> • <a href="https://jasonkuehl.com.com">Website</a> • <a href="https://jason-kuehl.creator-spring.com/?">Shop</a> • <a href="https://www.buymeacoffee.com/rcgfxDE">Beer me</a><h4>
 
-<h3>Hello! I'm Jason Kuehl<h3>
-<h3>Maker, Cosplayer, and Infra Guy  <h3>
+<h4>Hello! I'm Jason Kuehl<h4>
+<h4>Maker, Cosplayer, and Infra Guy  <h4>
 <p>-----------------------------------</p>
 <h4>I’m currently a Principal Infrastructure Engineer at Rue Gilt Groupe, with previous experience with SessionM, Virgin Pulse, Airadigm, and others. My background is in data center operations, and I changed to the cloud when I moved to Boston. I consider myself an expert in data center and cloud operations, as I can bridge the gap between these two worlds and offer solutions for both.<h4>
 
@@ -15,7 +15,7 @@
 <h4><br>In my spare time, I enjoy making props for cosplay, managing his own private data center, as well as building/fabrications projects out of my workshop.<h4>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<h3>💼 What & Where I am currently working at/on/as</h3>
+<h4>💼 What & Where I am currently working at/on/as</h4>
 <p>------------------------------------------------------------------</p>
 <p>
 <a href="https://ruelala.com">Rue Gilt Groupe:</a> Principal Infrastructure Engineer<br>
@@ -23,7 +23,7 @@
 <a href="https://www.instagram.com/jason.kuehl/">Instagram:</a> Maker/Cosplayer<br>
 </p>
 <p>&nbsp;</p>
-<h3>🤓 Silly Websites</h3>
+<h4>🤓 Silly Websites</h4>
 <p>-----------------------</p>
 <p>
 <a href="http://canihavepumpkinspiceyet.com/">Can I Have Pumpkin Spice Yet</a> <br>
@@ -31,7 +31,7 @@
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
-<h3>Blog Links<h3>
+<h4>Blog Links<h4>
 
 <!-- BLOGPOSTS:START -->
 - [Com64 Part2](https://jasonkuehl.com/2020/12/09/com64-part2/)
