@@ -34,4 +34,14 @@ In my spare time, I enjoy making props for cosplay, managing his own private dat
 
 
 <!-- BLOGPOSTS:START -->
+- [Com64 Part2](https://jasonkuehl.com/2020/12/09/com64-part2/)
+- [TES V1 – Traveling Entertainment System](https://jasonkuehl.com/2021/05/23/tes-v1/)
+- [FTP Is 50 Today…](https://jasonkuehl.com/2021/04/16/ftp-is-50-today/)
+- [The Process Of Making Things.](https://jasonkuehl.com/2021/02/09/the-process-of-making-things/)
+- [Why I Started Using “Poop” As Variable](https://jasonkuehl.com/2021/01/15/why-i-use-the-poop-variable/)
+- [Project Pi-Up](https://jasonkuehl.com/2020/12/21/project-pi-up/)
+- [Why The Empire Will Always Lose At Data Security](https://jasonkuehl.com/2020/12/14/why-the-empire-will-always-loss-at-data-security/)
+- [Smoke Master 9000](https://jasonkuehl.com/2020/11/06/grill-master-9000/)
+- [Commodore 64 Rebuild – Part 1](https://jasonkuehl.com/2020/11/15/commodore-64-rebuild-part-1/)
+- [Can I have pumpkin spice yet ?](https://jasonkuehl.com/2020/08/11/can-i-have-pumpkin-spice-yet/)
 <!-- BLOGPOSTS:END -->
