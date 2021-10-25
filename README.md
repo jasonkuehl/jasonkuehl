@@ -6,13 +6,10 @@
 <h4>Hello! I'm Jason Kuehl<h4>
 <h4>Maker, Cosplayer, and Infra Guy  <h4>
 <p>-----------------------------------</p>
-<h4>I’m currently a Principal Infrastructure Engineer at Rue Gilt Groupe, with previous experience with SessionM, Virgin Pulse, Airadigm, and others. My background is in data center operations, and I changed to the cloud when I moved to Boston. I consider myself an expert in data center and cloud operations, as I can bridge the gap between these two worlds and offer solutions for both.<h4>
-
-<h4><br>My skills and experiences are all information technology-related, including networking, Wireless, Ops, Security, Infra as Code, project management, cloud platforms, and data centers.<h4>
-
-<h4><br>I’m also a major advocate for any open-source projects. Nextcloud is my favorite.<h4>
-
-<h4><br>In my spare time, I enjoy making props for cosplay, managing his own private data center, as well as building/fabrications projects out of my workshop.<h4>
+<h5>I’m currently a Principal Infrastructure Engineer at Rue Gilt Groupe, with previous experience with SessionM, Virgin Pulse, Airadigm, and others. My background is in data center operations, and I changed to the cloud when I moved to Boston. I consider myself an expert in data center and cloud operations, as I can bridge the gap between these two worlds and offer solutions for both.<h5>
+<h5><br>My skills and experiences are all information technology-related, including networking, Wireless, Ops, Security, Infra as Code, project management, cloud platforms, and data centers.<h5>
+<h5><br>I’m also a major advocate for any open-source projects. Nextcloud is my favorite.<h5>
+<h5><br>In my spare time, I enjoy making props for cosplay, managing his own private data center, as well as building/fabrications projects out of my workshop.<h5>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <h4>💼 What & Where I am currently working at/on/as</h4>
