@@ -6,14 +6,13 @@
 <h4>Hello! I'm Jason Kuehl<h4>
 <h4>Maker, Cosplayer, and Infra Guy  <h4>
 <p>-----------------------------------</p>
-<h5>I’m currently a Principal Infrastructure Engineer at Rue Gilt Groupe, with previous experience with SessionM, Virgin Pulse, Airadigm, and others. My background is in data center operations, and I changed to the cloud when I moved to Boston. I consider myself an expert in data center and cloud operations, as I can bridge the gap between these two worlds and offer solutions for both.<h5>
-<h5><br>My skills and experiences are all information technology-related, including networking, Wireless, Ops, Security, Infra as Code, project management, cloud platforms, and data centers.<h5>
-<h5><br>I’m also a major advocate for any open-source projects. Nextcloud is my favorite.<h5>
-<h5><br>In my spare time, I enjoy making props for cosplay, managing his own private data center, as well as building/fabrications projects out of my workshop.<h5>
+<h5>I’m currently a Principal Infrastructure Engineer at Rue Gilt Groupe, with previous experience with SessionM, Virgin Pulse, Airadigm, and others. My background is in data center operations, and I changed to the cloud when I moved to Boston. I consider myself an expert in data center and cloud operations, as I can bridge the gap between these two worlds and offer solutions for both.
+My skills and experiences are all information technology-related, including networking, Wreless, Ops, Security, Infra as Code, project management, cloud platforms, and data centers.
+I’m also a major advocate for any open-source projects. Nextcloud is my favorite.
+In my spare time, I enjoy making props for cosplay, managing his own private data center, as well as building/fabrications projects out of my workshop.
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <h4>💼 What & Where I am currently working at/on/as</h4>
-<p>------------------------------------------------------------------</p>
 <p>
 <a href="https://ruelala.com">Rue Gilt Groupe:</a> Principal Infrastructure Engineer<br>
 <a href="https://jasonkuehl.com">My Website/Blog</a><br>
@@ -21,7 +20,6 @@
 </p>
 <p>&nbsp;</p>
 <h4>🤓 Silly Websites</h4>
-<p>-----------------------</p>
 <p>
 <a href="http://canihavepumpkinspiceyet.com/">Can I Have Pumpkin Spice Yet</a> <br>
 <a href="http://blackfrogomnicorp.com/">Black Frog Omni Corp</a> <br></p>
