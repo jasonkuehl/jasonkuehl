@@ -17,7 +17,7 @@ jobs:
         uses: kohrongying/readme-the-rss@master
         with:
           feed_url: https://jasonkuehl.com/sitemap.rss
-          count: 14
+          count: 12
       - name: Commit file changes
         run: |
             git config --global user.name 'Jason Kuehl'

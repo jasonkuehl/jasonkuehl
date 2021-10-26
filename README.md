@@ -40,7 +40,5 @@ In my spare time, I enjoy making props for cosplay, managing his own private dat
 - [Commodore 64 Rebuild – Part 1](https://jasonkuehl.com/2020/11/15/commodore-64-rebuild-part-1/)
 - [Can I have pumpkin spice yet ?](https://jasonkuehl.com/2020/08/11/can-i-have-pumpkin-spice-yet/)
 - [Pumpkin Spice Anyone?](https://jasonkuehl.com/2020/09/17/pumpkin-spice-anyone/)
-- [Twitch](https://www.twitch.tv/invader004#new_tab)
-- [Instagram](https://www.instagram.com/jason.kuehl/#new_tab)
 - [How I Found An S3 Vulnerability.](https://jasonkuehl.com/2020/10/15/how-i-found-an-s3-vulnerability/)
 <!-- BLOGPOSTS:END -->
