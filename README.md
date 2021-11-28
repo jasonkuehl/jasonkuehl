@@ -29,7 +29,6 @@ In my spare time, I enjoy making props for cosplay, managing his own private dat
 <h4>Blog Links<h4>
 
 <!-- BLOGPOSTS:START -->
-- [Working….](https://jasonkuehl.com/2021/11/23/working/)
 - [Com64 Part2](https://jasonkuehl.com/2020/12/09/com64-part2/)
 - [TES V1 – Traveling Entertainment System](https://jasonkuehl.com/2021/05/23/tes-v1/)
 - [FTP Is 50 Today…](https://jasonkuehl.com/2021/04/16/ftp-is-50-today/)
@@ -41,4 +40,5 @@ In my spare time, I enjoy making props for cosplay, managing his own private dat
 - [Commodore 64 Rebuild – Part 1](https://jasonkuehl.com/2020/11/15/commodore-64-rebuild-part-1/)
 - [Can I have pumpkin spice yet ?](https://jasonkuehl.com/2020/08/11/can-i-have-pumpkin-spice-yet/)
 - [Pumpkin Spice Anyone?](https://jasonkuehl.com/2020/09/17/pumpkin-spice-anyone/)
+- [Twitch](https://www.twitch.tv/invader004#new_tab)
 <!-- BLOGPOSTS:END -->
