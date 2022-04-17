@@ -29,9 +29,10 @@ In my spare time, I enjoy making props for cosplay, managing his own private dat
 <h4>Blog Links<h4>
 
 <!-- BLOGPOSTS:START -->
+- [Working….](https://jasonkuehl.com/2022/04/16/working/)
 - [Projects](https://jasonkuehl.com/projects/)
-- [Terraform](https://jasonkuehl.com/terraform/)
 - [Coding](https://jasonkuehl.com/coding/)
+- [Terraform](https://jasonkuehl.com/terraform/)
 - [Com64 Part2](https://jasonkuehl.com/2020/12/09/com64-part2/)
 - [TES V1 – Traveling Entertainment System](https://jasonkuehl.com/2021/05/23/tes-v1/)
 - [FTP Is 50 Today…](https://jasonkuehl.com/2021/04/16/ftp-is-50-today/)
@@ -40,5 +41,4 @@ In my spare time, I enjoy making props for cosplay, managing his own private dat
 - [Project Pi-Up](https://jasonkuehl.com/2020/12/21/project-pi-up/)
 - [Why The Empire Will Always Lose At Data Security](https://jasonkuehl.com/2020/12/14/why-the-empire-will-always-loss-at-data-security/)
 - [Smoke Master 9000](https://jasonkuehl.com/2020/11/06/grill-master-9000/)
-- [Commodore 64 Rebuild – Part 1](https://jasonkuehl.com/2020/11/15/commodore-64-rebuild-part-1/)
 <!-- BLOGPOSTS:END -->
