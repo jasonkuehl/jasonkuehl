@@ -29,7 +29,10 @@ In my spare time, I enjoy making props for cosplay, managing his own private dat
 <h4>Blog Links<h4>
 
 <!-- BLOGPOSTS:START -->
-- [Working….](https://jasonkuehl.com/2022/04/16/working/)
+- [Working….](https://jasonkuehl.com/2022/04/30/working/)
+- [RCN Business Cable Internet Is Not Business Ready](https://jasonkuehl.com/2022/04/30/rcn-business-cable-internet-is-not-business-ready/)
+- [Magic Wheelchair Gallery!](https://jasonkuehl.com/2020/11/10/magic-wheelchair-the-process/)
+- [MandoDuck Was Born 1st Costume.](https://jasonkuehl.com/2022/04/30/mandoduck-was-born/)
 - [Projects](https://jasonkuehl.com/projects/)
 - [Coding](https://jasonkuehl.com/coding/)
 - [Terraform](https://jasonkuehl.com/terraform/)
@@ -38,7 +41,4 @@ In my spare time, I enjoy making props for cosplay, managing his own private dat
 - [FTP Is 50 Today…](https://jasonkuehl.com/2021/04/16/ftp-is-50-today/)
 - [The Process Of Making Things.](https://jasonkuehl.com/2021/02/09/the-process-of-making-things/)
 - [Why I Started Using “Poop” As Variable](https://jasonkuehl.com/2021/01/15/why-i-use-the-poop-variable/)
-- [Project Pi-Up](https://jasonkuehl.com/2020/12/21/project-pi-up/)
-- [Why The Empire Will Always Lose At Data Security](https://jasonkuehl.com/2020/12/14/why-the-empire-will-always-loss-at-data-security/)
-- [Smoke Master 9000](https://jasonkuehl.com/2020/11/06/grill-master-9000/)
 <!-- BLOGPOSTS:END -->
