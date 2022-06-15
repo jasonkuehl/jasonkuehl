@@ -29,16 +29,16 @@ In my spare time, I enjoy making props for cosplay, managing his own private dat
 <h4>Blog Links<h4>
 
 <!-- BLOGPOSTS:START -->
-- [Why The Empire Will Always Lose At Data Security](https://jasonkuehl.com/2020/12/14/why-the-empire-will-always-loss-at-data-security/)
-- [Failing](https://jasonkuehl.com/2020/03/24/failing/)
-- [Social](https://jasonkuehl.com/social/)
 - [Server Status](https://jasonkuehl.com/server-status/)
-- [Dell N Series – No Free IP Address To Offer In Pool](https://jasonkuehl.com/2020/10/13/dell-n-series-no-free-ip-address-to-offer-in-pool/)
-- [The Process Of Making Things.](https://jasonkuehl.com/2021/02/09/the-process-of-making-things/)
-- [Flipper Zero — Tamagochi for Hackers](https://jasonkuehl.com/2020/08/04/flipper-zero-tamagochi-for-hackers/)
-- [How I Found An S3 Vulnerability.](https://jasonkuehl.com/2020/10/15/how-i-found-an-s3-vulnerability/)
 - [Projects](https://jasonkuehl.com/projects/)
+- [Project Pi-Up](https://jasonkuehl.com/2020/12/21/project-pi-up/)
+- [Flipper Zero — Tamagochi for Hackers](https://jasonkuehl.com/2020/08/04/flipper-zero-tamagochi-for-hackers/)
+- [Why The Empire Will Always Lose At Data Security](https://jasonkuehl.com/2020/12/14/why-the-empire-will-always-loss-at-data-security/)
+- [The Process Of Making Things.](https://jasonkuehl.com/2021/02/09/the-process-of-making-things/)
 - [Coding](https://jasonkuehl.com/coding/)
 - [Terraform](https://jasonkuehl.com/terraform/)
 - [TES V1 – Traveling Entertainment System](https://jasonkuehl.com/2021/05/23/tes-v1/)
+- [Smoke Master 9000](https://jasonkuehl.com/2020/11/06/grill-master-9000/)
+- [Commodore 64 Rebuild – Part 1](https://jasonkuehl.com/2020/11/15/commodore-64-rebuild-part-1/)
+- [Working….](https://jasonkuehl.com/2022/04/30/working/)
 <!-- BLOGPOSTS:END -->
