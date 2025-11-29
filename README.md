@@ -1,4 +1,4 @@
-
+```markdown
 <!-- Header -->
 <h1 align="center">👋 Hey, I’m <strong>Jason Kuehl</strong></h1>
 <h3 align="center">Manager of Infrastructure & Engineering | Homelab Enthusiast | Cloud & Network Architect</h3>
@@ -27,8 +27,7 @@ I specialize in:
 
 ---
 
-
-## 🧰 Tech Stack & Tools
+## 🧰 **Tech Stack & Tools**
 
 | Category | Tools |
 |---------|-------|
@@ -38,19 +37,14 @@ I specialize in:
 | **📊 Monitoring & Logging** | <img src="https://img.shields.io/badge/LibreNMS-00A9E0?logo=librenms&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Graylog-FF3633?logo=graylog&logoColor=white&style=flat" /> |
 | **🔐 Security** | <img src="https://img.shields.io/badge/Fortinet-EE3124?logo=fortinet&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/SSO-4285F4?logo=google&logoColor=white&style=flat" /> |
 
-
 ---
 
-
 ## 🏠 **Homelab & Personal Projects**
-
-- Proxmox cluster with ZFS storage
-- Multi-network Docker environment with custom DNS
-- LCARS + Jurassic Park–inspired intranet dashboard
-- S3-backed GIF hosting platform
-- Full LibreNMS monitoring with custom dashboards
-- 40G networking becasue I can
-- Palo Alto Firewalls (HA)
+- Proxmox cluster with ZFS storage  
+- Multi-network Docker environment with custom DNS  
+- LCARS + Jurassic Park–inspired intranet dashboard  
+- S3-backed GIF hosting platform  
+- Full LibreNMS monitoring with custom dashboards  
 
 ---
 
@@ -64,18 +58,29 @@ I specialize in:
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jasonkuehl&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=jasonkuehl&theme=dark&hide_border=true&border_radius=10&stroke=FF5733&background=0D1117&ring=00FFCC" alt="GitHub Streak Stats" />
 </p>
 
-### 📈 GitHub Analytics
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonkuehl&show_icons=true&count_private=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonkuehl&show_icons=true&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" />
 </p>
 
 ### 🧪 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkuehl&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkuehl&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Most Used Languages" />
 </p>
 
 ---
+
+## 🌐 **Links**
+- **Website:** https://jasonkuehl.com  
+- **Resume:** https://resume.jasonkuehl.com  
+- **Blog:** https://blog.jasonkuehl.com  
+- **Instagram:** https://www.instagram.com  
+- **LinkedIn:** https://www.linkedin.com  
+
+---
+
 <p align="center"><strong>“Keep building, keep breaking, keep learning.”</strong></p>
+```
