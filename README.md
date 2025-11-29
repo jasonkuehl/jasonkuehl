@@ -54,33 +54,5 @@ I specialize in:
 
 ---
 
-## 📊 **Stats & Analytics**
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jasonkuehl&theme=dark&hide_border=true&border_radius=10&stroke=FF5733&background=0D1117&ring=00FFCC" alt="GitHub Streak Stats" />
-</p>
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonkuehl&show_icons=true&count_private=true&theme=dark&hide_border=true&border_radius=10" alt="GitHub Stats" />
-</p>
-
-### 🧪 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonkuehl&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Most Used Languages" />
-</p>
-
----
-
-## 🌐 **Links**
-- **Website:** https://jasonkuehl.com  
-- **Resume:** https://resume.jasonkuehl.com  
-- **Blog:** https://blog.jasonkuehl.com  
-- **Instagram:** https://www.instagram.com  
-- **LinkedIn:** https://www.linkedin.com  
-
----
-
 <p align="center"><strong>“Keep building, keep breaking, keep learning.”</strong></p>
 ```
