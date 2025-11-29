@@ -35,7 +35,7 @@ I specialize in:
 | **🐳 Containers** | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Compose-2496ED?logo=docker&logoColor=white&style=flat" /> |
 | **☁️ Cloud & Automation** | <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat" /> |
 | **📊 Monitoring & Logging** | <img src="https://img.shields.io/badge/LibreNMS-00A9E0?logo=librenms&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Graylog-FF3633?logo=graylog&logoColor=white&style=flat" /> |
-| **🔐 Security** | <img src="https://img.shields.io/badge/Fortinet-EE3124?logo=fortinet&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/SSO-4285F4?logo=google&logoColor=white&style=flat" /> |
+| **🔐 Security/Firewall** | <img src="https://img.shields.io/badge/Fortinet-EE3124?logo=fortinet&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Palo%20Alto-FF0000?logo=paloalto&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/OPNsense-2C2C54?logo=opnsense&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/SSO-4285F4?logo=google&logoColor=white&style=flat" /> |
 
 ---
 
