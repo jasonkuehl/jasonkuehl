@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Header -->
 <h1 align="center">👋 Hey, I’m <strong>Jason Kuehl</strong></h1>
 <h3 align="center">Manager of Infrastructure & Engineering | Homelab Enthusiast | Cloud & Network Architect</h3>
