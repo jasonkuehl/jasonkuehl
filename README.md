@@ -45,7 +45,9 @@ I specialize in:
 - Multi-network Docker environment with custom DNS  
 - LCARS + Jurassic Park–inspired intranet dashboard  
 - S3-backed GIF hosting platform  
-- Full LibreNMS monitoring with custom dashboards  
+- Full LibreNMS monitoring with custom dashboards
+- 40G networking becasue I can
+- Palo Alto Firewalls (HA)
 
 ---
 
