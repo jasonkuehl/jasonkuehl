@@ -1,3 +1,4 @@
+
 <!-- Header -->
 <h1 align="center">👋 Hey, I’m <strong>Jason Kuehl</strong></h1>
 <h3 align="center">Manager of Infrastructure & Engineering | Homelab Enthusiast | Cloud & Network Architect</h3>
@@ -40,11 +41,13 @@ I specialize in:
 
 ---
 
+
 ## 🏠 **Homelab & Personal Projects**
-- Proxmox cluster with ZFS storage  
-- Multi-network Docker environment with custom DNS  
-- LCARS + Jurassic Park–inspired intranet dashboard  
-- S3-backed GIF hosting platform  
+
+- Proxmox cluster with ZFS storage
+- Multi-network Docker environment with custom DNS
+- LCARS + Jurassic Park–inspired intranet dashboard
+- S3-backed GIF hosting platform
 - Full LibreNMS monitoring with custom dashboards
 - 40G networking becasue I can
 - Palo Alto Firewalls (HA)
