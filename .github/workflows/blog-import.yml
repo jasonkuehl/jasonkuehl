@@ -14,9 +14,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v4
+      - uses: https://git.yolo.fail/actions/checkout@v4
       - name: Get RSS Feed
-        uses: kohrongying/readme-the-rss@master
+        uses: https://git.yolo.fail/actions/kohrongying-readme-the-rss@master
         with:
           feed_url: https://jasonkuehl.com/sitemap.rss
           count: 12
