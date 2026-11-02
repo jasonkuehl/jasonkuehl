@@ -1,0 +1,31 @@
+
+name: Blog posts on ReadMe
+on:
+  schedule:
+    # Runs every day at 8am UTC
+    - cron: '0 8 * * *'
+
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: https://git.yolo.fail/actions/checkout@v4
+      - name: Get RSS Feed
+        uses: https://git.yolo.fail/actions/kohrongying-readme-the-rss@master
+        with:
+          feed_url: https://jasonkuehl.com/sitemap.rss
+          count: 12
+      - name: Commit file changes
+        run: |
+            git config --global user.name 'Jason Kuehl'
+            git config --global user.email 'jason@jasonkuehl.com'
+            git add .
+            git diff --quiet --cached || git commit -m "Adding update to blog" 
+      # ad-m/github-push-action pushes to github.com; checkout already set up the Gitea remote
+      - name: Push changes
+        run: git push

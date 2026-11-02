@@ -9,14 +9,12 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: https://git.yolo.fail/actions/checkout@v4
+      - uses: actions/checkout@v2
       - name: Get RSS Feed
-        uses: https://git.yolo.fail/actions/kohrongying-readme-the-rss@master
+        uses: kohrongying/readme-the-rss@master
         with:
           feed_url: https://jasonkuehl.com/sitemap.rss
           count: 12
@@ -26,6 +24,7 @@ jobs:
             git config --global user.email 'jason@jasonkuehl.com'
             git add .
             git diff --quiet --cached || git commit -m "Adding update to blog" 
-      # ad-m/github-push-action pushes to github.com; checkout already set up the Gitea remote
       - name: Push changes
-        run: git push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
